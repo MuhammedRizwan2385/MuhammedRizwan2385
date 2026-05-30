@@ -1,15 +1,11 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=M%20Muhammed%20Rizwan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%26%20ML%20Enthusiast%20%7C%20CSE%20Undergrad%20%7C%20Building%20Intelligent%20Solutions&descAlignY=62&descSize=16" width="100%"/>
-
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+M+Muhammed+Rizwan+%F0%9F%91%8B;AI+%26+ML+Enthusiast+%7C+CSE+Undergrad;Building+Intelligent%2C+Data-Driven+Solutions;CGPA%3A+9.71+%7C+TKM+Institute+of+Technology" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=4000&pause=500&color=70A5FD&center=true&vCenter=true&width=800&height=80&lines=M+Muhammed+Rizwan" alt="Name" />
 </div>
-
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=38BDAE&center=true&vCenter=true&width=1000&lines=AI+%26+ML+Enthusiast+%7C+CSE+Undergrad;Building+Intelligent%2C+Data-Driven+Solutions;CGPA%3A+9.71+%7C+TKM+Institute+of+Technology;YOLOv8+%7C+Vision+Transformer+%7C+Django+%7C+Flask" alt="Typing SVG" />
+</div>
 <br/>
-
 <img src="https://komarev.com/ghpvc/?username=muhammedrizwan&label=Profile+Views&color=70a5fd&style=flat-square" alt="profile views"/>
-
 ---
 
 ## 🧑‍💻 About Me
