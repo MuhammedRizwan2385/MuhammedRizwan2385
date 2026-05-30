@@ -1,7 +1,7 @@
 <table width="100%" border="0" cellspacing="0" cellpadding="10">
 <tr>
 <td width="180" align="center" valign="middle">
-  <img src="https://raw.githubusercontent.com/MuhammedRizwan2385/MuhammedRizwan2385/main/1.jpeg" width="150" style="border-radius:50%;border:3px solid #70a5fd;" alt="M Muhammed Rizwan"/>
+  <img src="https://raw.githubusercontent.com/MuhammedRizwan2385/MuhammedRizwan2385/main/4.jpeg" width="150" style="border-radius:50%;border:3px solid #70a5fd;" alt="M Muhammed Rizwan"/>
 </td>
 <td align="center" valign="middle">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=4000&pause=500&color=70A5FD&center=true&vCenter=true&width=600&height=80&lines=M+Muhammed+Rizwan" alt="Name" /><br/>
