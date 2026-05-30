@@ -1,12 +1,11 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=4000&pause=500&color=70A5FD&center=true&vCenter=true&width=800&height=80&lines=M+Muhammed+Rizwan" alt="Name" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=4000&pause=500&color=70A5FD&center=true&vCenter=true&width=600&height=80&lines=M+Muhammed+Rizwan" alt="Name" />
 </div>
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=38BDAE&center=true&vCenter=true&width=1000&lines=AI+%26+ML+Enthusiast+%7C+CSE+Undergrad;Building+Intelligent%2C+Data-Driven+Solutions;CGPA%3A+9.71+%7C+TKM+Institute+of+Technology;YOLOv8+%7C+Vision+Transformer+%7C+Django+%7C+Flask" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=38BDAE&center=true&vCenter=true&width=600&lines=AI+%26+ML+Enthusiast+%7C+CSE+Undergrad;Building+Intelligent+Data-Driven+Solutions;CGPA+9.71+%7C+TKM+Institute+of+Technology;YOLOv8+%7C+Vision+Transformer+%7C+Django+%7C+Flask" alt="Typing SVG" />
 </div>
 <br/>
 <img src="https://komarev.com/ghpvc/?username=muhammedrizwan&label=Profile+Views&color=70a5fd&style=flat-square" alt="profile views"/>
----
 
 ## 🧑‍💻 About Me
 
